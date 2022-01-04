@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  background-color: rgb(75, 41, 41);
+  color: rgb(199, 176, 176);
+  overflow-x: hidden;
+  font-family: Helvetica;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  margin: 15px;
+  text-decoration: none;
+  color: hsl(0, 21%, 93%);
+}
+
+li {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header {
+  position: relative;
+  top: 0;
+  background-color: rgb(8, 8, 8);
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  padding: 5px 10px;
+}
+
+section {
+  background-color: rgb(17, 17, 16);
+  color: rgb(226, 15, 15);
+  padding: 2% 15%;
+  font-size: 20px;
+}
+
+footer {
+  height: 50px;
+  background-color: #5e2a2a;
+  font-weight: 100;
+  padding: 0%;
+}
+
+#text {
+  text-align: justify;
+}
+
+.gold {
+  color: #1f1c1cfd;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  padding: 5%;
+}
+
+.links {
+  background-color: #19191d;
+  padding: 1px 0px;
+  width: 1000px;
+  margin: 10% auto;
+  border-radius: 10px;
+}
+
+.ring {
+  width: 80px;
+  length: 80px;
+}
